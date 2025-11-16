@@ -1,4 +1,4 @@
-\# Movie Library - Biblioteka Filmowa
+# Movie Library - Biblioteka Filmowa
 
 
 
@@ -6,53 +6,53 @@ Aplikacja webowa CRUD do zarządzania biblioteką filmową.
 
 
 
-\## Technologie
+## Technologie
 
 
 
-\### Backend
+### Backend
 
-\- .NET 8.0
+- .NET 8.0
 
-\- Entity Framework Core
+- Entity Framework Core
 
-\- SQLite
+- SQLite
 
-\- ASP.NET Core Web API
-
-
-
-\### Frontend
-
-\- Vue.js 3
-
-\- Bootstrap 5
-
-\- Vuelidate
-
-\- Axios
+- ASP.NET Core Web API
 
 
 
-\## Funkcje
+### Frontend
 
-\- Dodawanie filmów
+- Vue.js 3
 
-\- Edycja filmów
+- Bootstrap 5
 
-\- Usuwanie filmów
+- Vuelidate
 
-\- Import filmów z zewnętrznego API
-
-\- Walidacja formularzy (tytuł max 200 znaków, rok 1900-2200)
+- Axios
 
 
 
-\## Instalacja i uruchomienie
+## Funkcje
+
+- Dodawanie filmów
+
+- Edycja filmów
+
+- Usuwanie filmów
+
+- Import filmów z zewnętrznego API
+
+- Walidacja formularzy (tytuł max 200 znaków, rok 1900-2200)
 
 
 
-\### Backend
+## Instalacja i uruchomienie
+
+
+
+### Backend
 
 ```bash
 
@@ -74,7 +74,7 @@ Swagger: `http://localhost:5048/swagger`
 
 
 
-\### Frontend
+### Frontend
 
 ```bash
 
@@ -92,19 +92,19 @@ Frontend będzie dostępny na: `http://localhost:5173`
 
 
 
-\## Wymagania
+## Wymagania
 
 
 
-\- .NET SDK 8.0 lub nowszy
+- .NET SDK 8.0 lub nowszy
 
-\- Node.js 16+ i npm
+- Node.js 16+ i npm
 
-\- Git
+- Git
 
 
 
-\## Autor
+## Autor
 
 
 
