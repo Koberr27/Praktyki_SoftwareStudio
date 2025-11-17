@@ -94,7 +94,7 @@ Frontend będzie dostępny na: `http://localhost:5173`
 
 
 
-- .NET SDK 8.0 lub nowszy
+- .NET SDK 8.0 lub nowszy (Działałem na nowej wersji 10.0.0)
 
 - Node.js 16+ i npm
 
