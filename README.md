@@ -16,8 +16,6 @@ Aplikacja webowa CRUD do zarządzania biblioteką filmową.
 
 - Entity Framework Core
 
-- SQLite
-
 - ASP.NET Core Web API
 
 
